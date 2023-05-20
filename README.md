@@ -1,1 +1,1 @@
-# EM_Calculator
+Here is a description of our project
