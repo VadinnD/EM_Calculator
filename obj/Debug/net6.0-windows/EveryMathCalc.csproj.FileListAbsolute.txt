@@ -1,0 +1,8 @@
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.csproj.AssemblyReference.cache
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\Calc.Calc.resources
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.Properties.Resources.resources
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.csproj.GenerateResource.cache
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.AssemblyInfoInputs.cache
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.AssemblyInfo.cs
+D:\С#\Calc\Calc\obj\Debug\net6.0-windows\EveryMathCalc.csproj.CoreCompileInputs.cache
