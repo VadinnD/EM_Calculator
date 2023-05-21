@@ -62,7 +62,7 @@ namespace Calc
         }
         private void GraphicsBtn_Click(object sender, EventArgs e)
         {
-            PanelSlider.Controls.Find("Graphs", false)[0].BringToFront();
+            PanelSlider.Controls.Find("UserGraphics", false)[0].BringToFront();
         }
 
         private void SettingsBtn_Click(object sender, EventArgs e)

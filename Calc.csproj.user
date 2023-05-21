@@ -4,6 +4,21 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="GraphicsCode\Calc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GraphicsCode\Coord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GraphicsCode\Draw.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GraphicsCode\Move.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GraphicsCode\Zoom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UniversalCalcForm.cs">
       <SubType>Form</SubType>
     </Compile>
